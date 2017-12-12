@@ -14,6 +14,9 @@ Using R to sync up wave files e.g. podcasts
     * functions for comparing audio against a reference
     * `autodetec` finds start and end of signal in an audio file
     * `xcorr` estimates the similarity of two spectrograms by means of cross-correlation
+  - dtw: https://cran.r-project.org/web/packages/dtw/index.html
+    * Dynamic Time Warping: https://cran.r-project.org/web/packages/dtw/vignettes/dtw.pdf
+    * Computes the optimal (least cumulative distance) alignment between points of two time series. 
 
 ## Useful stuff:
   - Sound processing in R: http://samcarcagno.altervista.org/blog/basic-sound-processing-r/ 
