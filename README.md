@@ -18,6 +18,8 @@ Using R to sync up wave files e.g. podcasts
   - dtw: https://cran.r-project.org/web/packages/dtw/index.html
     * Dynamic Time Warping: https://cran.r-project.org/web/packages/dtw/vignettes/dtw.pdf
     * Computes the optimal (least cumulative distance) alignment between points of two time series. 
+  - monitoR: https://cran.r-project.org/web/packages/monitoR/index.html
+    * compare audio against reference and extract matches
 
 ## Useful stuff:
   - Sound processing in R: http://samcarcagno.altervista.org/blog/basic-sound-processing-r/ 
@@ -25,3 +27,4 @@ Using R to sync up wave files e.g. podcasts
   - Aligning two signals: https://stats.stackexchange.com/questions/31666/how-can-i-align-synchronize-two-signals 
   - Synchronizing two signals using FFT in R:
 https://stats.stackexchange.com/questions/130843/how-to-synchronize-two-signals-using-fft-in-r 
+  - Acoustic analsysis in R  https://rpubs.com/marcelo-araya-salas/108244
