@@ -20,6 +20,10 @@ Using R to sync up wave files e.g. podcasts
     * Computes the optimal (least cumulative distance) alignment between points of two time series. 
   - monitoR: https://cran.r-project.org/web/packages/monitoR/index.html
     * compare audio against reference and extract matches
+  - rav: https://docs.ropensci.org/av/
+    * https://ropensci.org/technotes/2020/02/03/av-audio/
+  - wavesurfer: https://github.com/Athospd/wavesurfer
+    * Visualise and annotate wav files in R / Shiny. 
 
 ## Useful stuff:
   - Sound processing in R: http://samcarcagno.altervista.org/blog/basic-sound-processing-r/ 
